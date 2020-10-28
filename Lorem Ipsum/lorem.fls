@@ -1,0 +1,22 @@
+PWD /media/michal/Elements/FIIT/1.semester/MIP/Lorem Ipsum
+INPUT /etc/texmf/web2c/texmf.cnf
+INPUT /usr/share/texmf/web2c/texmf.cnf
+INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
+INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
+INPUT /media/michal/Elements/FIIT/1.semester/MIP/Lorem Ipsum/lorem.tex
+OUTPUT /media/michal/Elements/FIIT/1.semester/MIP/Lorem Ipsum/lorem.log
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT /media/michal/Elements/FIIT/1.semester/MIP/Lorem Ipsum/lorem.aux
+INPUT /media/michal/Elements/FIIT/1.semester/MIP/Lorem Ipsum/lorem.aux
+OUTPUT /media/michal/Elements/FIIT/1.semester/MIP/Lorem Ipsum/lorem.aux
+OUTPUT /media/michal/Elements/FIIT/1.semester/MIP/Lorem Ipsum/lorem.pdf
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /media/michal/Elements/FIIT/1.semester/MIP/Lorem Ipsum/lorem.aux
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
