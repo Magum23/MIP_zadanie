@@ -137,6 +137,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx12.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/cssl10.tfm
 INPUT /media/michal/Elements/FIIT/1.semester/MIP/Clanok/clanok.bbl
 INPUT /media/michal/Elements/FIIT/1.semester/MIP/Clanok/clanok.bbl
