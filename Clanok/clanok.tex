@@ -1,44 +1,89 @@
-\documentclass[10pt,twoside,slovak,a4paper]{article}
+% Metódy inžinierskej práce
+
+\documentclass[10pt,slovak,a4paper]{article}
 
 \usepackage[slovak]{babel}
-\usepackage[IL2]{fontenc}
+%\usepackage[T1]{fontenc}
+\usepackage[IL2]{fontenc} % lepšia sadzba písmena Ľ než v T1
 \usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{url} % príkaz \url na formátovanie URL
+\usepackage{hyperref} % odkazy v texte budú aktívne (pri niektorých triedach dokumentov spôsobuje posun textu)
+
+\usepackage{cite}
+%\usepackage{times}
 
 \pagestyle{headings}
 
-\title{Názov\thanks{Semestrálny projekt v predmete Metódy inžinierskej práce, ak. rok 2015/16, vedenie: Meno Priezvisko}} % meno a priezvisko vyučujúceho na cvičeniach
+\title
+{
+	Rozvoj e-learningu a stratégie využívané v online vyučovaní
+	\thanks
+	{
+		Semestrálny projekt v predmete Metódy inžinierskej práce, ak. rok 2020/21, vedenie: Ing. Michal Hatala, PhD.
+	}
+} % meno a priezvisko vyučujúceho na cvičeniach
 
 \author{Michal Magula\\[2pt]
 	{\small Slovenská technická univerzita v Bratislave}\\
 	{\small Fakulta informatiky a informačných technológií}\\
-	{\small \texttt{...@stuba.sk}}
+	{\small \texttt{xmagulam@stuba.sk}}
 	}
 
 \date{\small 29. október 2020}
 
+
+
 \begin{document}
 
-    \begin{abstract}
-        Za posledné roky sa e-learning veľmi spopularizoval. Dôvodom je najmä zlacňovanie osobnej elektroniky
-        a výrazné zlepšovanie internetového pokrytia. Hoci týmto systémom je možné sa vzdelávať kedykoľvek
-        a kdekoľvek, je stále potrebné vyskúšať mnoho postupov výučby a až časom zistíme, čo je najvhodnejšie.
-        Preto účelom tohto článku je oboznámiť čitateľa ohľadom problematiky e-learningu, z čoho e-learning
-        vznikol a ako sa vyvinul do podoby v akej ho poznáme dnes. Ďalším cieľom je poskytnúť informácie práve
-        ohľadom trendov a stratégií využívaných v online výučbe.
-    \end{abstract}
+\maketitle
 
-    \section{Ako sa e-vzdelávanie vyvíjalo}
-        Mnoho ľudí si mýli pojem e-vzdelávanie s distančným vzdelávaním a myslia si, že sú tieto slová synonymami.
-        V skutočnosti sú to dva rozdielne pojmy. Vývoj e-vzdelávania nastal v 90. tych rokoch spolu s rozvojom internetu.
-        Samozrejme nemôžeme poprieť, že e-learning nemá svoje korene v dištančnom vzdelávaní.
+\begin{abstract}
+	Za posledné roky sa e-learningveľmi spopularizoval. Dôvodom je najmä zlacňovanieosobnej elektroniky avýrazné zlepšovanie internetového pokrytia. Hocitýmto systémom jemožné sa vzdelávať kedykoľvek akdekoľvek,je stále potrebné vyskúšať mnoho postupov výučby aaž časom zistíme,čo je najvhodnejšie. Preto účelom tohtočlánkujeoboznámiť čitateľa ohľadom problematiky e-learningu, zčoho e-learning vznikol aako sa vyvinuldo podoby vakej ho poznáme dnes. Ďalším cieľom je poskytnúť informácie práve ohľadom trendov astratégií využívaných vonline výučbe.
+\end{abstract}
 
-        Prvé náznaky dištančného vzdelávania datujeme v roku 1828, keď Profesor C. Phillips inzeroval do novín
-        Boston Gazette ponuku na učebné materiály a tutoriály odosielané poštou. V roku 1843 bola 
-        založená Phonographic Correspondence Society, ktorá by mohla byť považovaná za prvú inštitúciu 
-        venujúcu sa dištančnému vzdelávaniu. Žiaci, ktorí sa zúčastnovali ich kurzu dostávali poštou
-        nové a opravené zadania.
+\section{Ako sa vyvíjalo e-vzdelávanie} \label{Evolution}
 
-        V 20. tych rokoch 20. teho storočia s príchodom masovo komunikačných prostriedkov sa začala formovať aj idea
-        vzdelávania žiakov cez tieto prostriedky. Tento nápad bol uskútočnený až v 60. tych tokoch minulého storočia 
-        vznikom Open University in UK (Otvorenej univerzity v Spojenom Kráľovstve).
+	Mnoho ľudí si mýli pojem e-vzdelávanie s distančným vzdelávaním a myslia si, že sú tieto slová synonymami.
+	V skutočnosti sú to dva rozdielne pojmy. Vývoj e-vzdelávania nastal v 90. tych rokoch spolu s rozvojom internetu.
+	Samozrejme nemôžeme poprieť, že e-learning nemá svoje korene v dištančnom vzdelávaní.\cite{main}
+
+	Prvé náznaky dištančného vzdelávania datujeme v roku 1828, keď Profesor C. Phillips inzeroval do novín
+	Boston Gazette ponuku na učebné materiály a tutoriály odosielané poštou. V roku 1843 bola 
+	založená Phonographic Correspondence Society, ktorá by mohla byť považovaná za prvú inštitúciu 
+	venujúcu sa dištančnému vzdelávaniu. Žiaci, ktorí sa zúčastnovali ich kurzu dostávali poštou
+	nové a opravené zadania \cite{main}.
+
+	V 20. tych rokoch 20. teho storočia s príchodom masovo komunikačných prostriedkov sa začala formovať aj idea
+	vzdelávania žiakov cez tieto prostriedky. Tento nápad bol uskútočnený až v 60. tych tokoch minulého storočia 
+	vznikom Open University in UK (Otvorenej univerzity v Spojenom Kráľovstve).\cite{main}
+
+	Koncep e-vzdelávania sa vyvíjal ruka v ruke spolu s rozvojom počítačov, ale 
+	najväčšií mýlnik pre e-vzdelávanie bol vznik webu. Od tohto momentu sa 
+	e-vzdelávanie začalo rozvíjať extrémne rýchlo.\cite{main}
+
+
+
+\section{Generácie e-vzdelávania} \label{Generations}
+
+	Keby sme chceli zoradiť modely e-vzdelávania podľa času, najvhodnejšie je ich označovať ako generácie. Na základe vyššie uvedenej generačnej metafory García-Peñalvo a Seoane-Pardo preskúmali konceptualizáciu a definíciu e-vzdelávania podľa troch rôznych generácií (etáp), ktoré sú v súlade so širokými návrhmi rôznych autorov, najmä s myšlienkou Stephena Downesa, že generácie nie sú nahradené, ale koexistujú a zrelosť prvej generácie prináša vývoj nasledujúcej a vznik novej generácie. V skutočnosti skutočnosti sa pojem „e-vzdelávanie“ používal ako metóda výučby a učenia sa a zároveň tiež ako prístup k učeniu a výučbe.
+	\cite{main}
+
+	Prvá generácia je charakterizovaná vznikom online platform na výučbu a to práve vďaka vzniku webu a nápadov vyučovať žiakov prostredníctvom osobných počítačov. V tejto generácií je upriamená pozornosť najmä na obsah výučby a technologické problémy a pedagogické problémy online výučby sú viac menej prehliadané.
+	\cite{main}
+
+	Druhá generácia kladie dôraz najmä na ľudský faktor. Komunikácia a interakcia medzi učiteľom a študentom je veľmi dôležitá pre kvalitnú edukáciu študentov. Druhá generácia sa taktiež snaží ísť na rámec jednoduchého publikovania informácií na web. Wbe 2.0, mobilné technológie a voľné šírenie informácii taktiež výrazne pomohli tejto generácii e-vzdelávania rásť.
+	\cite{main}
+	
+\section{Pedagogické postupy v e-vzdelávanií} \label{pedagogicalApproaches}
+
+\section{Ekosystémy vzdelávania} \label{ecosystems}
+
+
+
+\section{Záver} \label{zaver} 
+\newpage
+% týmto sa generuje zoznam literatúry z obsahu súboru literatura.bib podľa toho, na čo sa v článku odkazujete
+\bibliography{literatura}
+\bibliographystyle{plain} % prípadne alpha, abbrv alebo hociktorý iný
 \end{document}

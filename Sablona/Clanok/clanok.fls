@@ -138,10 +138,10 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/cstt10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csr7.tfm
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csti10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx12.tfm
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/cssl10.tfm
 INPUT /media/michal/Elements/FIIT/1.semester/MIP/Sablona/Clanok/clanok.aux
