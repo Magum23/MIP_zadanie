@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex clanok"] 1604426540 "clanok.aux" "clanok.bbl" "clanok" 1604426540
+["bibtex clanok"] 1604833400 "clanok.aux" "clanok.bbl" "clanok" 1604833400
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "clanok.aux" 1604426540 2613 754e5e827307cf619364aab724f77906 "pdflatex"
   "literatura.bib" 0 -1 0 ""
   (generated)
   "clanok.bbl"
   "clanok.blg"
-["pdflatex"] 1604426540 "/media/michal/Elements/FIIT/1.semester/MIP/Sablona/Clanok/clanok.tex" "/media/michal/Elements/FIIT/1.semester/MIP/Sablona/Clanok/clanok.pdf" "clanok" 1604426540
+["pdflatex"] 1604426540 "/media/michal/Elements/FIIT/1.semester/MIP/Sablona/Clanok/clanok.tex" "/media/michal/Elements/FIIT/1.semester/MIP/Sablona/Clanok/clanok.pdf" "clanok" 1604833400
   "/etc/texmf/web2c/texmf.cnf" 1603038935 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/media/michal/Elements/FIIT/1.semester/MIP/Sablona/Clanok/clanok.aux" 1604426540 2613 754e5e827307cf619364aab724f77906 ""
   "/media/michal/Elements/FIIT/1.semester/MIP/Sablona/Clanok/clanok.tex" 1604426539 4835 d260a8be649aaa27085dd6f676e46444 ""
@@ -114,9 +114,9 @@
   "clanok.out" 1604426540 482 bff7663f15d3a8d4e32cad78dc2ab180 "pdflatex"
   "clanok.tex" 1604426539 4835 d260a8be649aaa27085dd6f676e46444 ""
   (generated)
-  "clanok.aux"
+  "clanok.log"
   "/media/michal/Elements/FIIT/1.semester/MIP/Sablona/Clanok/clanok.pdf"
   "clanok.pdf"
   "/media/michal/Elements/FIIT/1.semester/MIP/Sablona/Clanok/clanok.log"
+  "clanok.aux"
   "clanok.out"
-  "clanok.log"
