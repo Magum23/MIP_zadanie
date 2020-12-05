@@ -1,10 +1,10 @@
-PWD /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia
+PWD /media/michal/Michal1TB/FIIT/1.semester/MIP/Example
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.tex
-OUTPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.log
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Example/clanok.tex
+OUTPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Example/clanok.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
@@ -88,9 +88,9 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/cite/cite.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
-INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.aux
-INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.aux
-OUTPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.aux
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Example/clanok.aux
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Example/clanok.aux
+OUTPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Example/clanok.aux
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
@@ -103,14 +103,14 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.out
-INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.out
-INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.out
-INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.out
-OUTPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.pdf
-INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.out
-INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.out
-OUTPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.out
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Example/clanok.out
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Example/clanok.out
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Example/clanok.out
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Example/clanok.out
+OUTPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Example/clanok.pdf
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Example/clanok.out
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Example/clanok.out
+OUTPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Example/clanok.out
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csr17.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
@@ -136,27 +136,31 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx12.tfm
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx12.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/cssl10.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
-INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.bbl
-INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.bbl
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/cstt10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csr7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csti10.tfm
-INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.aux
-INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.out
-INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.out
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx12.tfm
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/cssl10.tfm
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Example/clanok.aux
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Example/clanok.out
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Example/clanok.out
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
-INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csbx10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csbx12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csbx9.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr17.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr6.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr7.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr8.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr9.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/cssl10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csti10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/cstt10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/cstt9.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm0600.pfb
 INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb

@@ -137,9 +137,16 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx12.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/Obrazky/diagram.png
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/Obrazky/diagram.png
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/Obrazky/diagram.png
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/cssl10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/Obrazky/Pedagogicke postupy.png
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/Obrazky/Pedagogicke postupy.png
+INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/Obrazky/Pedagogicke postupy.png
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csbx10.tfm
 INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.bbl
 INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.bbl
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cs/csti10.tfm
@@ -148,6 +155,7 @@ INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.out
 INPUT /media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.out
 INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csbx10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csbx12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csbx9.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/cs/csr10.pfb
