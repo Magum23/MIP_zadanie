@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex clanok"] 1607190912 "clanok.aux" "clanok.bbl" "clanok" 1607190927
+["bibtex clanok"] 1607259718 "clanok.aux" "clanok.bbl" "clanok" 1607259719
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "clanok.aux" 1607190926 3391 3c1d0d43c169fd27b4fad721208b94a5 "pdflatex"
+  "clanok.aux" 1607259718 3391 138d3dfdf888e96bc88100a8e83900c2 "pdflatex"
   "literatura.bib" 1607181783 1584 49301659fac91a58b8ef82e9a78f3384 ""
   (generated)
-  "clanok.blg"
   "clanok.bbl"
-["pdflatex"] 1607190926 "/media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.tex" "/media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.pdf" "clanok" 1607190927
+  "clanok.blg"
+["pdflatex"] 1607259718 "/media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.tex" "/media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.pdf" "clanok" 1607259719
   "/etc/texmf/web2c/texmf.cnf" 1603038935 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.aux" 1607190926 3391 3c1d0d43c169fd27b4fad721208b94a5 ""
-  "/media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.tex" 1607190925 11756 d397eb45e52e2cd6989110a6ae369fda ""
+  "/media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.aux" 1607259718 3391 138d3dfdf888e96bc88100a8e83900c2 ""
+  "/media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.tex" 1607259716 13453 3eaded7c0129548585d1d44036bfad71 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm0600.tfm" 1136768653 1536 12e8c510d3e158fdd0e9a42e75118bd9 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm" 1136768653 1536 e07581a4bb3136ece9eeb4c3ffab8233 ""
@@ -107,14 +107,14 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1603039022 8256364 e8c52de3e110221ed860cffebf6c7fac ""
   "Obrazky/Pedagogicke postupy.png" 1607180710 96738 ed4bf53a1d66243cb612e8c0ec508f72 ""
   "Obrazky/diagram.png" 1605806664 179009 0e8eca72d90261b4584de0a626b8656c ""
-  "clanok.aux" 1607190926 3391 3c1d0d43c169fd27b4fad721208b94a5 "pdflatex"
-  "clanok.bbl" 1607190912 1341 9287f96f2849c3695bc145626d8e2790 "bibtex clanok"
-  "clanok.out" 1607190926 533 b7d334399d34d116f64536da4deafc7a "pdflatex"
-  "clanok.tex" 1607190925 11756 d397eb45e52e2cd6989110a6ae369fda ""
+  "clanok.aux" 1607259718 3391 138d3dfdf888e96bc88100a8e83900c2 "pdflatex"
+  "clanok.bbl" 1607259718 1341 9287f96f2849c3695bc145626d8e2790 "bibtex clanok"
+  "clanok.out" 1607259718 533 b7d334399d34d116f64536da4deafc7a "pdflatex"
+  "clanok.tex" 1607259716 13453 3eaded7c0129548585d1d44036bfad71 ""
   (generated)
-  "/media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.pdf"
+  "clanok.aux"
   "clanok.out"
   "/media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.log"
-  "clanok.aux"
   "clanok.pdf"
+  "/media/michal/Michal1TB/FIIT/1.semester/MIP/Predbezna verzia/clanok.pdf"
   "clanok.log"
